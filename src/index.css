@@ -20,6 +20,10 @@ header h1 {
 
 /* regole main*/
 
+.cards-container {
+  display: flex;
+}
+
 #card {
   margin-left: 40px;
 }
